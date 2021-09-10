@@ -190,6 +190,7 @@ int main()
                 break;
                 default:
                 cout<<"\n\t\t\t\t\t\t\t\t\t Enter the Number between 1-9\n";
+                    i--;
                 break;
                 
             }
@@ -274,6 +275,7 @@ int main()
                 break;
                 default:
                 cout<<"\n\t\t\t\t\t\t\t\t\t Enter the Number between 1-9\n";
+                    i--;
                 break;
             }
         }
