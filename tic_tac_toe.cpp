@@ -281,6 +281,7 @@ int main()
         }
         
         i++;
+        system("clear");
         display_board();
         if(win()) 
         {
